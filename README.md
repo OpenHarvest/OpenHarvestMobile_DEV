@@ -1,1 +1,0 @@
-# OpenHarvestMobile_DEV
